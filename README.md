@@ -2,6 +2,7 @@
 <h2>Tetris with Aritificail Inteligence</h2>
 <h1>Made by SoftProNeo & Pavel Pavlov</h1>
 <p>This is the classic tetris game but inside in core has the second option.</p>
+<p>This game is possible to implement in other websites. The game have very easy structure for integrations.</p>
 <p>This second option is artificial intelligence who work very fast and foresees each next step in the game.</p>
 <p>Each new step of artificial intelligence in the game allows it to become better and self-educate.</p>
 <p>This game was created entirely by the creator of SoftProNeo.</p>
