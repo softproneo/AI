@@ -11,4 +11,4 @@
 <p>If you want to see about us or our services you can visit our website: <a href="https://softproneo.com">SoftProNeo</a></p>
 <p>For questions about this PWA write me on <a href="https://softproneo.com/">info@softproneo.com</a></p>
 
-<h3><a href="http://web.trakiyaenergy.com/ai/">Demo version</a></h3>
+<h3><a href="http://web.trakiyaenergy.com/ai/" target="_blank">Demo version</a></h3>
