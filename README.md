@@ -10,3 +10,5 @@
 <p>Here you can find more info about creator of SoftProNeo - <a href="https://softproneo.com/about/">Pavel Pavlov</a></p>
 <p>If you want to see about us or our services you can visit our website: <a href="https://softproneo.com">SoftProNeo</a></p>
 <p>For questions about this PWA write me on <a href="https://softproneo.com/">info@softproneo.com</a></p>
+
+<h3><a href="http://softproneo.com/ai/">Demo version</a></h3>
