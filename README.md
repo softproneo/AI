@@ -4,7 +4,7 @@
 <p>This is the classic tetris game but inside in core has the second option.</p>
 <p>This second option is artificial intelligence who work very fast and foresees each next step in the game.</p>
 <p>Each new step of artificial intelligence in the game allows it to become better and self-educate.</p>
-<p>This game was created entirely by the creator of SoftProNeo</p>
+<p>This game was created entirely by the creator of SoftProNeo.</p>
 
 <p>Here you can find more info about creator of SoftProNeo - <a href="https://softproneo.com/about/">Pavel Pavlov</a></p>
 <p>If you want to see about us or our services you can visit our website: <a href="https://softproneo.com">SoftProNeo</a></p>
